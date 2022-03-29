@@ -5,6 +5,8 @@
 Accuracy LogisticRegression Simple: 0.8939393939393939 <br>
 Accuracy LogisticRegression With Autoencoder: 0.9242424242424242
 
+![Loss](https://github.com/CAG9/Autoencoder-Feature-Extraction/blob/main/Autoencoderloss.png)
+
 ## Author: 
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 
@@ -17,6 +19,7 @@ An autoencoder is a type of artificial neural network used to learn efficient co
 The encoder can then be used as a data preparation technique to perform feature extraction on raw data that can be used to train a different machine learning model.
 
 ## Model: 
+![Autoencoder](https://github.com/CAG9/Autoencoder-Feature-Extraction/blob/main/autoencoder_compress.png)
 
 ## Tools:
 - Python
