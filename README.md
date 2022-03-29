@@ -2,7 +2,7 @@
 
 
 ## Results:
-Accuracy LogisticRegression Simple: 0.8939393939393939
+Accuracy LogisticRegression Simple: 0.8939393939393939 <br>
 Accuracy LogisticRegression With Autoencoder: 0.9242424242424242
 
 ## Author: 
