@@ -26,6 +26,7 @@ The encoder can then be used as a data preparation technique to perform feature 
 - Tensorflow
 - Keras
 - Scikit-learn
+- Matplotlib
 
 
 ## Dataset:
