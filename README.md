@@ -2,8 +2,8 @@
 
 
 ## Results:
-Accuracy LogisticRegression Simple: 0.8939393939393939 <br>
-Accuracy LogisticRegression With Autoencoder: 0.9242424242424242
+Accuracy LogisticRegression Simple: 0.8939 <br>
+Accuracy LogisticRegression With Autoencoder: 0.9242
 
 ![Loss](https://github.com/CAG9/Autoencoder-Feature-Extraction/blob/main/Autoencoderloss.png)
 
