@@ -23,7 +23,7 @@ The encoder can then be used as a data preparation technique to perform feature 
 
 ## Tools:
 - Python
-- Tensorflow
+- Tensorflow 2
 - Keras
 - Scikit-learn
 - Matplotlib
