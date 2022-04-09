@@ -22,7 +22,7 @@ The encoder can then be used as a data preparation technique to perform feature 
 ![Autoencoder](https://github.com/CAG9/Autoencoder-Feature-Extraction/blob/main/autoencoder_compress.png)
 
 ## Tools:
-- Python
+- Python 3
 - Tensorflow 2
 - Keras
 - Scikit-learn
